@@ -6,7 +6,6 @@
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)](vite.config.ts)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?logo=tailwindcss)](tailwind.config.js)
 [![Bundle](https://img.shields.io/badge/Bundle-190KB-green?logo=vite)](vite.config.ts)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Personal portfolio site built with **React 18 + TypeScript strict mode + Vite + Tailwind CSS 3**. Single-page application with smooth scroll navigation, dark/light theme, scroll-reveal animations, and project flip-cards.
 
